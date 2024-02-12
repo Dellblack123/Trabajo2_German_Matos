@@ -7,6 +7,31 @@
       background-color: rgb(239, 113, 2);
    }
 
+   /* Estilos para la presentación */
+body {
+   padding-top: 50px;
+   font-family: Arial, sans-serif;
+}
+
+.jumbotron {
+   background-color: #f8f9fa;
+   padding: 2rem 1rem;
+   margin-bottom: 2rem;
+   border-radius: 0.3rem;
+}
+
+.jumbotron h1,
+.jumbotron p {
+   text-align: center;
+}
+
+footer {
+   text-align: center;
+   margin-top: 2rem;
+   padding-top: 2rem;
+   border-top: 1px solid #e9ecef;
+}
+
 
 
 
